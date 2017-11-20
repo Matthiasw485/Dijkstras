@@ -1,0 +1,6 @@
+c:\users\wurmm\documents\visual studio 2015\Projects\Dijkstras\Dijkstras\bin\Debug\Dijkstras.exe.config
+c:\users\wurmm\documents\visual studio 2015\Projects\Dijkstras\Dijkstras\bin\Debug\Dijkstras.exe
+c:\users\wurmm\documents\visual studio 2015\Projects\Dijkstras\Dijkstras\bin\Debug\Dijkstras.pdb
+c:\users\wurmm\documents\visual studio 2015\Projects\Dijkstras\Dijkstras\obj\Debug\Dijkstras.csprojResolveAssemblyReference.cache
+c:\users\wurmm\documents\visual studio 2015\Projects\Dijkstras\Dijkstras\obj\Debug\Dijkstras.exe
+c:\users\wurmm\documents\visual studio 2015\Projects\Dijkstras\Dijkstras\obj\Debug\Dijkstras.pdb
